@@ -43,6 +43,9 @@ confidential information.
 
 To give a high level overview on how the components communicate together, see the following deployment diagram.
 
+![alt text](https://github.com/Event-Link/EventLink/blob/master/img/deployment_diagram.png)
+
+
 # License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
