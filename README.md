@@ -37,7 +37,7 @@ The backend consist of 4 components:
 
 These all communicate with each other in some way, and are therefore all required to be deployed
 to either the same server or 4 distinct servers. `appsettings.json` files has to be made for required
-confidential information.
+confidential information. Each component can be published with the `dotnet` CLI tool and resulting files copied to a server.
 
 # How it works
 
