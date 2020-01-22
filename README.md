@@ -43,6 +43,7 @@ confidential information.
 
 To give a high level overview on how the components communicate together, see the following deployment diagram.
 Note, that this is just an example of how the system could be deployed, the communication is however fixed.
+The mobile application can be found [here](https://github.com/Event-Link/mobile).
 
 ![Deployment diagram](https://github.com/Event-Link/EventLink/blob/master/img/deployment_diagram.png)
 
