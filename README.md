@@ -18,18 +18,30 @@
  - [Introduction](#Introduction)
  - [Installing](#Installing)
  - [How it works](#How-it-works)
- - [tl;dr](#tldr)
  - [License](#License)
 
 # Introduction
 
+EventLink is an event-management platform, with the purpose of gathering event information from a diverse set of sources, such as TicketMaster, Billetlugen and SeatGeek as well as personal events from Facebook, Google, etc. This will be synchronized with the users calendar, such that they can decide whether they can attend the event in question. This will be presented in a single user-friendly application.
+
+EventLink started out as a bachelor's thesis at the [Technical University of Denmark, DTU](https://dtu.dk).
+
 # Installing
+
+The backend consist of 4 components:
+
+* The GraphQL api (EventLink.API)
+* The access control api (EventLink.Auth)
+* The crawler (EventLink.Crawler)
+* The database integration (EventLink.DataAccess)
+
+These all communicate with each other in some way, and are therefore all required to be deployed
+to either the same server or 4 distinct servers. `appsettings.json` files has to be made for required
+confidential information.
 
 # How it works
 
-# tl;dr
-
-# My setup
+To give a high level overview on how the components communicate together, see the following deployment diagram.
 
 # License
 
