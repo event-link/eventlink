@@ -24,7 +24,7 @@
 
 EventLink is an event-management platform, with the purpose of gathering event information from a diverse set of sources, such as TicketMaster, Billetlugen and SeatGeek as well as personal events from Facebook, Google, etc. This will be synchronized with the users calendar, such that they can decide whether they can attend the event in question. This will be presented in a single user-friendly application.
 
-EventLink started out as a bachelor's thesis at the [Technical University of Denmark, DTU](https://dtu.dk).
+EventLink started out as a bachelor's thesis at the [Technical University of Denmark, DTU](https://www.dtu.dk).
 
 # Installing
 
