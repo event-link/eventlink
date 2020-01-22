@@ -42,9 +42,9 @@ confidential information.
 # How it works
 
 To give a high level overview on how the components communicate together, see the following deployment diagram.
+Note, that this is just an example of how the system could be deployed, the communication is however fixed.
 
-![alt text](https://github.com/Event-Link/EventLink/blob/master/img/deployment_diagram.png)
-
+![Deployment diagram](https://github.com/Event-Link/EventLink/blob/master/img/deployment_diagram.png)
 
 # License
 
