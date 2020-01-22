@@ -1,3 +1,5 @@
+![EventLink Logo](https://github.com/Event-Link/EventLink/blob/master/img/logo.jpg)
+
 ```
    __                      _      __   _         _    
   /__\__   __  ___  _ __  | |_   / /  (_) _ __  | | __
