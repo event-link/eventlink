@@ -1,18 +1,18 @@
 ![EventLink Logo](https://github.com/Event-Link/EventLink/blob/master/img/logo.jpg)
 
 ```
-  ______               _   _      _       _    
- |  ____|             | | | |    (_)     | |   
- | |____   _____ _ __ | |_| |     _ _ __ | | __
- |  __\ \ / / _ \ '_ \| __| |    | | '_ \| |/ /
- | |___\ V /  __/ | | | |_| |____| | | | |   < 
- |______\_/ \___|_| |_|\__|______|_|_| |_|_|\_\
-                                                      
+                       _   _ _       _    
+                      | | | (_)     | |   
+   _____   _____ _ __ | |_| |_ _ __ | | __
+  / _ \ \ / / _ \ '_ \| __| | | '_ \| |/ /
+ |  __/\ V /  __/ | | | |_| | | | | |   < 
+  \___| \_/ \___|_| |_|\__|_|_|_| |_|_|\_\
+
   ▓▓▓▓▓▓▓▓▓▓
  ░▓ about  ▓ EventLink backend system
  ░▓ author ▓ iyyel <i@iyyel.io>, tmascagni <t.mascagni@gmail.com>
- ░▓ code   ▓ https://github.com/Event-Link/EventLink
- ░▓ mirror ▓ https://git.iyyel.io/EventLink/EventLink
+ ░▓ code   ▓ https://github.com/Event-Link/eventlink
+ ░▓ mirror ▓ https://git.iyyel.io/EventLink/eventlink
  ░▓▓▓▓▓▓▓▓▓▓
  ░░░░░░░░░░
 ```
