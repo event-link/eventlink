@@ -53,3 +53,4 @@ The mobile application can be found [here](https://github.com/Event-Link/mobile)
 
 # License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
+
